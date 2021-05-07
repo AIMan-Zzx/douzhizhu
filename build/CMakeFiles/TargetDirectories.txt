@@ -1,0 +1,3 @@
+/home/zzx/bankcard/doudizhu-C-master/build/CMakeFiles/rebuild_cache.dir
+/home/zzx/bankcard/doudizhu-C-master/build/CMakeFiles/edit_cache.dir
+/home/zzx/bankcard/doudizhu-C-master/build/CMakeFiles/env.dir
