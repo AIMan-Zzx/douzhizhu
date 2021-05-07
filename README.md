@@ -1,4 +1,4 @@
-## 炸金花Zhajinhua
+## 斗地主Doudizhu
 
 ### 特点
 
